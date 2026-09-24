@@ -1,0 +1,3 @@
+# Rileva automaticamente i file di testo e li salva con fine riga LF,
+# sia nel repository sia nella copia di lavoro, su qualsiasi sistema operativo.
+* text=auto eol=lf
