@@ -1,0 +1,25 @@
+# Sistema operativo
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Editor e IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+*.swp
+*.swo
+*~
+
+# Segreti e configurazioni locali
+.env
+.env.*
+!.env.example
+
+# Log e file temporanei
+*.log
+*.tmp
